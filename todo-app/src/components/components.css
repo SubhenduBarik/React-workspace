@@ -1,0 +1,29 @@
+.filters{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.filterItem{
+    padding: 5px;
+    background-color: thistle;
+}
+
+.completedTask{
+    background-color: darkseagreen;
+    width: 200px;
+    margin-bottom: 2px;
+}
+
+.incompleteTask{
+    background-color: cornflowerblue;
+    width: 200px;
+    margin-bottom: 2px;
+}
+
+.todoApp{
+    width: 300px;
+    padding: 5px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
